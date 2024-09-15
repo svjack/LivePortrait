@@ -33,6 +33,7 @@ This repository, named **LivePortrait**, contains the official PyTorch implement
 
 ---
 
+## Should run this on GPU
 ## Installation and Usage
 
 ### Prerequisites
