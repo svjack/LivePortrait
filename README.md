@@ -48,6 +48,7 @@ Clone the repository and install the required dependencies:
 ```bash
 git clone https://huggingface.co/spaces/svjack/LivePortrait && cd LivePortrait
 pip install -r requirements.txt
+pip install -U gradio==4.43.0
 ```
 
 ### Run with Gradio Web UI
