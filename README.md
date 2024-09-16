@@ -40,7 +40,7 @@ This repository, named **LivePortrait**, contains the official PyTorch implement
 Ensure you have `ffmpeg` and `ffprobe` installed:
 ```bash
 sudo apt-get update
-sudo apt-get install ffmpeg ffprobe git-lfs
+sudo apt-get install ffmpeg git-lfs
 ```
 
 ### Clone and Setup
